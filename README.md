@@ -24,6 +24,8 @@ Describe your game idea, and the tool instantly creates a canvas-based game with
 - HTML, CSS, JavaScript
 - HTML5 Canvas
 - Docker
+- Phaser
+
 
 ---
 
@@ -34,3 +36,4 @@ Describe your game idea, and the tool instantly creates a canvas-based game with
 ```bash
 docker build -t game .
 docker run -it game
+
